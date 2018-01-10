@@ -11,11 +11,13 @@ Upon requesting a ride, the app obtains the geolocation of the user's device and
 This app is intended for use by families with children or teens who frequently need rides to/from various places, or could be used by anyone who needs a ride but would prefer asking a friend or family member than a stranger.  Parental controls could be added to control who receives ride requests or view a log of a teen's rides.  An SOS button could be added for a single-tap urgent ride request and location alert to all contacts in the event of a potentially unsafe situation.
 
 Front End Elements:
-HTML5
-Bootstrap
-CSS
-jQuery Mobile
-JavaScript
+<ul>
+<li>HTML5</li>
+<li>Bootstrap</li>
+<li>CSS</li>
+<li>jQuery Mobile</li>
+<li>JavaScript</li>
+</ul>
 
 Back End Elements:
 React
