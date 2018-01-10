@@ -1,4 +1,4 @@
-PickMeUp ReadMe
+<h1>PickMeUp</h1>
 
 PickMeUp is a web-based application optimized for mobile phone devices, designed primarily for ease-of-use with minimal clicks.
 
