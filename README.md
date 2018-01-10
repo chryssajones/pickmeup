@@ -20,10 +20,12 @@ Front End Elements:
 </ul>
 
 Back End Elements:
-React
-Express
-Google Maps API for geolocation
-Firebase for user authentication
-MongoDB for ride data persistence
-SMS package handling to send location data
-Contacts integration package handler
+<ul>
+<li>React</li>
+<li>Express</li>
+<li>Google Maps API for geolocation</li>
+<li>Firebase for user authentication</li>
+<li>MongoDB for ride data persistence</li>
+<li>SMS package handling to send location data</li>
+<li>Contacts integration package handler</li>
+</ul>
