@@ -1,3 +1,5 @@
+// This is where the magic happens!
+
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';

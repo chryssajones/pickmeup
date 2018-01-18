@@ -1,0 +1,1 @@
+// This component will compile the home page and its child components.

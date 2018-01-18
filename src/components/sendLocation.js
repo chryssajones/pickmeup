@@ -1,0 +1,1 @@
+// This component will send the user's location to a contact
