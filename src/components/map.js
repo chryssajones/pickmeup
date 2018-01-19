@@ -2,14 +2,13 @@
 
 import React, { Component } from 'react';
 
-class Map extends Component {
+export default class extends Component {
 	render() {
 		return (
 			<div>
 				<h1>Map goes here!</h1>
+				<img src='../images/sampleMap.png' alt="map"></img>
 			</div>
 		)
 	}
 }
-
-export default Map;
