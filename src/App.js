@@ -3,7 +3,8 @@
 import React, { Component } from 'react';
 // import logo from './logo.svg';
 import './App.css';
-import Home from './components/Home.js';
+import Home from './components/Home';
+
 // import * as firebase from "firebase";
 
   // Initialize Firebase
@@ -18,14 +19,12 @@ import Home from './components/Home.js';
   // firebase.initializeApp(config);
 
 
-class App extends Component {
+export default class extends Component {
   render() {
     return (
       <div>
         <Home />
       </div>
-    );
+    )
   }
 }
-
-export default App;
